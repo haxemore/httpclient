@@ -1,0 +1,11 @@
+{
+    "name": "httpmore",
+    "url": "https://github.com/haxemore/httpmore",
+    "license": "MIT",
+    "tags": ["http", "client"],
+    "description": "A simplistic HTTP client library for Haxe's native targets.",
+    "version": "0.1.0",
+    "releasenote": "",
+    "contributors": ["sharpcdf"],
+    "dependencies": {}
+}
